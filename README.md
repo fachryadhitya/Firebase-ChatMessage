@@ -17,8 +17,4 @@ to run this file, install live server extension and then inject html with live s
 
 
 
-## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
